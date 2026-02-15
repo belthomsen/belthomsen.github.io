@@ -7,3 +7,7 @@ p {
 body {
   background-color: #123524;
 }
+.bg-custom {
+  background-color: #123524;
+  text-color: white;
+}
