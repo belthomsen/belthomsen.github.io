@@ -4,3 +4,9 @@ h1 {
 p {
   font-family: Tacoma, Verdana;
 }
+.navbar-custom {
+  background-color: #287650;
+}
+body {
+  background-color: #123524;
+}
