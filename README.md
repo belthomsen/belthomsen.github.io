@@ -1,0 +1,1 @@
+Hello! I'm a software engineer building identity and access management (IAM) applications for the Department of Veterans Affairs. Combines full-stack development with technical discussions and demos for customer leadership, user acceptance testing, and applied machine learning research.
